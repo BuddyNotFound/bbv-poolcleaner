@@ -1,4 +1,5 @@
-![poolcleaner|690x387](upload://t3EFJG9xSUfEZXraEpOoOjNfoGp.jpeg)
+
+![poolcleaner](https://github.com/BuddyNotFound/bbv-poolcleaner/assets/74051918/2cd497b8-aba0-4238-a22f-7ee6540d7778)
 
 **> BBV X WORLD | POOL CLEANER**
 
@@ -13,6 +14,6 @@ If you find any issues you can report them on in our dc server or github.
 
 https://streamable.com/kn7k96
 
-> Script Download
-
+> Discord :
+> http://discord.bbv.world
 
