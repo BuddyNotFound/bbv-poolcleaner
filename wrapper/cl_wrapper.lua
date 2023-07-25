@@ -196,7 +196,12 @@ function Wrapper:Stash(label,weight,slots) -- Create and Open a stash in qb-inve
 end
 
 function Wrapper:Notify(txt,tp,time) -- QBCore notify
+    if Config.Settings.Framework == "QB" then 
     QBCore.Functions.Notify(txt, tp, time)
+    end
+    if Config.Settings.Framework == "ESX" then 
+        ESX.ShowNotification(txt)
+    end
 end
 
 function Wrapper:Bill(playerId, amount) -- QBCore bill player, YOU (your job) Bills => Player and amount (player,amount)
