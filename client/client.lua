@@ -72,8 +72,8 @@ function Main:CleanBuild(pos,id)
         self.busy = true
         --print(Main.job.. ' '.. Main.currid)
     
-        local ad = "anim@amb@drug_field_workers@rake@male_a@base"
-        local anim = 'base'
+        ad = "anim@amb@drug_field_workers@rake@male_a@base"
+        anim = 'base'
         local player = PlayerPedId()
         local pcoords = GetEntityCoords(player)
     
