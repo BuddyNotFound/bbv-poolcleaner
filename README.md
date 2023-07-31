@@ -1,3 +1,4 @@
+<a href='https://ko-fi.com/G2G0N78P7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ![poolcleaner](https://github.com/BuddyNotFound/bbv-poolcleaner/assets/74051918/2cd497b8-aba0-4238-a22f-7ee6540d7778)
 
